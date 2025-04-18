@@ -32,7 +32,7 @@ This exercise focuses on working with **Java interfaces, classes, and generics**
 ## 🛠️ Installation
 
 1. Ensure JDK 17 or higher is installed on your machine.
-2. Clone or download the project.
+2. Clone or download the project: 
 3. Save the following files under a `src/` folder:
 
 ```bash
@@ -119,5 +119,5 @@ Taking a photo with the smartphone...
 
 ---
 
-> **Happy Coding!** 🚀
+
 
